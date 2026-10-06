@@ -1,0 +1,12 @@
+{
+  "name": "sbarframe",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "packageManager": "bun@1.3.14",
+  "scripts": {
+    "test": "bun test",
+    "check": "bun scripts/check.ts",
+    "build": "bun build skills/sbarframe/scripts/project-kit.ts --target=bun --outdir=dist"
+  }
+}
