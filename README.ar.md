@@ -2,7 +2,7 @@
 
 **مهارة لوكلاء الذكاء الاصطناعي لبناء مشاريع Framer قابلة للتعديل، مع بحث وتصميم مشترك وتحقق قبل التسليم.**
 
-[English](README.md) · [دليل الاستخدام الكامل](docs/usage.md) · [مرجع فحص الأدلة](skills/sbarframe/references/gate.md)
+[English](README.md) · [صفحة المهارة على Skills](https://skills.sh/m7mmad-omar/sbarframe/sbarframe) · [دليل الاستخدام الكامل](docs/usage.md) · [مرجع فحص الأدلة](skills/sbarframe/references/gate.md)
 
 ![سير العمل من البحث والتصميم إلى البناء والتحقق والإصلاح والتسليم](docs/diagrams/workflow.svg)
 

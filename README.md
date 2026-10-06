@@ -2,7 +2,7 @@
 
 **A Framer quality workflow for AI agents: research, reusable design, responsive behavior and evidence before delivery.**
 
-[العربية](README.ar.md) · [Usage](docs/usage.md) · [Evidence guide](skills/sbarframe/references/gate.md) · [Contributing](CONTRIBUTING.md)
+[العربية](README.ar.md) · [Install on Skills](https://skills.sh/m7mmad-omar/sbarframe/sbarframe) · [Usage](docs/usage.md) · [Evidence guide](skills/sbarframe/references/gate.md) · [Contributing](CONTRIBUTING.md)
 
 ![sbarframe workflow: research, design, build, verify, repair and deliver](docs/diagrams/workflow.svg)
 
